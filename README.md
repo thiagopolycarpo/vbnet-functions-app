@@ -53,6 +53,12 @@ npm run dev
 
 Frontend em: [http://localhost:5173](http://localhost:5173)
 
+
+### 4. Tests
+```bash
+cd VBNetFunctions.Tests
+dotnet test
+```
 ---
 
 ## 🧪 Testar via Postman ou cURL
