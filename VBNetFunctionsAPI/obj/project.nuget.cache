@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "OgxVWJaH3yU=",
+  "success": true,
+  "projectFilePath": "/Users/thiagopolycarpo/Documents/VBNetFunctionsSolution/VBNetFunctionsAPI/VBNetFunctionsAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/thiagopolycarpo/.nuget/packages/microsoft.aspnetcore.jsonpatch/8.0.0/microsoft.aspnetcore.jsonpatch.8.0.0.nupkg.sha512",
+    "/Users/thiagopolycarpo/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/8.0.0/microsoft.aspnetcore.mvc.newtonsoftjson.8.0.0.nupkg.sha512",
+    "/Users/thiagopolycarpo/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/thiagopolycarpo/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/thiagopolycarpo/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

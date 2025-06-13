@@ -1,0 +1,11 @@
+/Users/thiagopolycarpo/Documents/VBNetFunctionsSolution/VBNetFunctions/bin/Debug/net8.0/VBNetFunctions.deps.json
+/Users/thiagopolycarpo/Documents/VBNetFunctionsSolution/VBNetFunctions/bin/Debug/net8.0/VBNetFunctions.dll
+/Users/thiagopolycarpo/Documents/VBNetFunctionsSolution/VBNetFunctions/bin/Debug/net8.0/VBNetFunctions.pdb
+/Users/thiagopolycarpo/Documents/VBNetFunctionsSolution/VBNetFunctions/obj/Debug/net8.0/VBNetFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagopolycarpo/Documents/VBNetFunctionsSolution/VBNetFunctions/obj/Debug/net8.0/VBNetFunctions.AssemblyInfoInputs.cache
+/Users/thiagopolycarpo/Documents/VBNetFunctionsSolution/VBNetFunctions/obj/Debug/net8.0/VBNetFunctions.AssemblyInfo.vb
+/Users/thiagopolycarpo/Documents/VBNetFunctionsSolution/VBNetFunctions/obj/Debug/net8.0/VBNetFunctions.vbproj.CoreCompileInputs.cache
+/Users/thiagopolycarpo/Documents/VBNetFunctionsSolution/VBNetFunctions/obj/Debug/net8.0/VBNetFunctions.dll
+/Users/thiagopolycarpo/Documents/VBNetFunctionsSolution/VBNetFunctions/obj/Debug/net8.0/refint/VBNetFunctions.dll
+/Users/thiagopolycarpo/Documents/VBNetFunctionsSolution/VBNetFunctions/obj/Debug/net8.0/VBNetFunctions.pdb
+/Users/thiagopolycarpo/Documents/VBNetFunctionsSolution/VBNetFunctions/obj/Debug/net8.0/ref/VBNetFunctions.dll
